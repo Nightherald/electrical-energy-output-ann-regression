@@ -3,7 +3,7 @@ Either download the .csv from this github repo or from the UCI Machine Learning 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-You can see the results of the analysis here, [electrical_energy_output_ann_regression.ipynb](electrical_energy_output_ann_regression.ipynb) . If the notebook isn't already loaded from GitHub, please refresh/reload.
+You can see the results of the analysis here, [electrical_energy_output_ann_regression.ipynb](electrical_energy_output_ann_regression.ipynb) . If the notebook isn't already loaded from GitHub, please refresh/reload. If that does not work, see it online here with the help of [nb-viewer](https://nbviewer.jupyter.org/github/Nightherald/electrical-energy-output-ann-regression/blob/main/electrical_energy_output_ann_regression.ipynb)
 
 ## Electrical Energy Output prediction using ANN Regression
 The aim of this notebook is to create a data model that predicts the net hourly electrical energy output (EP) of the Combined Cycle Power Plant using available hourly average ambient variables.
